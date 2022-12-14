@@ -478,7 +478,7 @@ footer .was {
     }
 }
 
-@media screen and (max-width: 990px) {
+@media screen and (max-width: 610px) {
     .menu {
         width: 90%;
     }
