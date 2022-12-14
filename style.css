@@ -391,7 +391,7 @@ footer .was {
 }
 
 /* responsive design */
-@media screen and (max-width: 1000px) {
+@media (min-width:370px) and (max-width:670px) {
     footer {
         flex-direction: column;
         height: 550px;
